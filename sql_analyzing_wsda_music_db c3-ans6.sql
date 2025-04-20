@@ -15,7 +15,7 @@ based on 15% of the sales transaction amount.
 5. Which customer made the highest purchase?
 6. Look at this customer record—do you see anything suspicious?
 7. Who do you conclude is our primary person of interest?
-
+8. What is the total amount of commission paid to employees in 2011 and 2012?
 use wsda_music.db
 ANSWER #6:
 */
